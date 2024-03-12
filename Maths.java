@@ -8,6 +8,10 @@ class Maths{
   
   //subtraction
   //multiply
+  static int mul(int a,int b){
+	  int c = a*b;
+	 return c;
+}
   //division
   //modulus
   static int modu(int a, int b){
