@@ -13,6 +13,9 @@ class Maths{
 	 return c;
 }
   //division
+  Static double division(int a ,int b){
+     return a/b;
+  } 
   //modulus
   static int modu(int a, int b){
 	  int modulo = a%b;
