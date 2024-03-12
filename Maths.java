@@ -26,11 +26,10 @@ class Maths{
 	  return modulo;
 
   public static void main(String args[]){
- Maths m=new Maths();
  add(10,20);
  sub(20,30);
  mul(2,3);
  division(20,2);
- modu(10%2);
+ modu(10,2);
   }
 }
