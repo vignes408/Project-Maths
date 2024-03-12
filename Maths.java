@@ -7,6 +7,10 @@ class Maths{
   }
   
   //subtraction
+  public static int sub(int a, int b){
+    int res = Math.abs(a-b);
+    return res;
+  } 
   //multiply
   static int mul(int a,int b){
 	  int c = a*b;
