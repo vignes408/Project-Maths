@@ -37,6 +37,7 @@ class Maths{
 		System.out.println("Enter Ur choice:");
   }
 
+
   do{
 	  menu();
 	  int m;
@@ -69,4 +70,5 @@ class Maths{
   }while(m==1);
 
 
+}
 }
